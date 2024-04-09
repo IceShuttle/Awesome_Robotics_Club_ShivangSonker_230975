@@ -2,6 +2,8 @@
 
 ![Image of circuit](flappy.png "Circuit of Flappy Bird")
 
+[TinkerCad Link](https://www.tinkercad.com/things/bPfJ2yV2LfX-flappy-bird/editel)
+
 The First few lines of code initializes the led and the sensors and initialize the level
 
 The program continously prints the level on led screen and for every frame check if the player is colliding with any of the block in the level
